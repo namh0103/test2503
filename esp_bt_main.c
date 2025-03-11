@@ -35,7 +35,7 @@ esp_bluedroid_status_t esp_bluedroid_get_status(void)
         return ESP_BLUEDROID_STATUS_UNINITIALIZED;
     }
 }
-
+int d = 1;
 int a = 1;
 int b =1;
 intc=1;
