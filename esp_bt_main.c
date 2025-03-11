@@ -39,6 +39,7 @@ int d = 1;
 int a = 1;
 int b =1;
 intc=1;
+
 esp_err_t esp_bluedroid_enable(void)
 {
     btc_msg_t msg;
