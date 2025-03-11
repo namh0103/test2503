@@ -37,7 +37,8 @@ esp_bluedroid_status_t esp_bluedroid_get_status(void)
 }
 
 int a = 1;
-
+int b =1;
+intc=1;
 esp_err_t esp_bluedroid_enable(void)
 {
     btc_msg_t msg;
